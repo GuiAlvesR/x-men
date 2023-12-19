@@ -1,6 +1,6 @@
 # ![bg-desktop](https://github.com/GuiAlvesR/x-men/assets/139154854/b94a0e81-1601-490b-aa3c-400893ec1bb3)
 
-ojeto Front-End - X-Men
+# Projeto Front-End - X-Men
 Uma breve descrição do projeto aqui.
 
 ## 🔥 Introdução
